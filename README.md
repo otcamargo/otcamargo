@@ -1,4 +1,29 @@
-### Hi there 👋
+# Hi there 👋 I'm Otávio!
+
+- 🔭 I’m currently working on a todo app
+  - [api](https://github.com/otcamargo/core-api)
+  - [front-end](https://github.com/otcamargo/todo-app-2.0-frontend)
+
+- 💬 Ask me about anything!
+
+- :slightly_smiling_face: I’m looking to collaborate on various different projects involving (but not limited to) the following:
+  - Ruby
+  - TypeScript / JavaScript
+  - DevOps
+  - C#
+  - Ruby on Rails
+  - Node
+  - React
+  - Hit me up!
+
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=otcamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=otcamargo&layout=compact&langs_count=8&theme=dracula)
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-camargo-480772101/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taviaao/)
+
 
 <!--
 **otcamargo/otcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
