@@ -1,19 +1,15 @@
 # Hi there 👋 I'm Otávio!
 
-- 🔭 I’m currently working on a todo app
-  - [api](https://github.com/otcamargo/core-api)
-  - [front-end](https://github.com/otcamargo/todo-app-2.0-frontend)
-
 - 💬 Ask me about anything!
 
-- :slightly_smiling_face: I’m looking to collaborate on various different projects involving (but not limited to) the following:
+- :slightly_smiling_face: I’m looking to learn and contribute to various different projects involving (but not limited to) the following cool stuff:
   - Ruby
+  - Ruby on Rails
   - TypeScript / JavaScript
+  - Nodejs
+  - React
   - DevOps
   - C#
-  - Ruby on Rails
-  - Node
-  - React
   - Hit me up!
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=otcamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
