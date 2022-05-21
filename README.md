@@ -4,7 +4,6 @@
 
 - :slightly_smiling_face: I’m looking to learn and contribute to various different projects involving (but not limited to) the following cool stuff:
   - Ruby
-  - Ruby on Rails
   - TypeScript / JavaScript
   - Nodejs
   - React
@@ -18,7 +17,6 @@
 ---
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-camargo-480772101/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taviaao/)
 
 
 <!--
